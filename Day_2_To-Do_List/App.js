@@ -10,7 +10,8 @@ export default function App() {
   const [visible,setDiag]=useState(false);
   const add=()=>{
     if(input!=''){
-      setGoals([...goals,{key:Math.random(1000),data:input}])  
+      setGoals([...goals,{key:Math.random(1000),data:input}])
+      setInput('');  
     }
   }
   const del=(key)=>{
