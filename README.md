@@ -5,4 +5,5 @@ Simple Calulator
 
 Day:2
 A To Do List with Swipte Out to Delete feature
+<br>
 <img src='/Day_2_To-Do_List/Design.jpeg' />
