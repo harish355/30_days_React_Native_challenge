@@ -1,0 +1,12 @@
+{
+  "name": "Day_3_Cars_info",
+  "displayName": "Day_3_Cars_info",
+  "expo": {
+    "name": "Day_3_Cars_info",
+    "slug": "Day_3_Cars_info",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
